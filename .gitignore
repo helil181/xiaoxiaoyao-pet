@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# 构建产物
+build/
+dist/
+pyi_build/
+release/
+*.spec
+*.zip
+
+# 数据库文件
+*.db
+
+# 敏感信息 - 不要把真实密钥上传到GitHub
+apikey.txt
+release/apikey.txt
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# 项目规划文档
+.trae/
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# 调试文件
+_debug_kb.txt
+_debug_prompt.txt
+
+# 原始素材文件夹（体积太大，非运行必需）
+小小耀/
+待机/
+打招呼/
+无语/
+走路/
+跑步/
+跳舞/
+
+# 敏感配置（运行时数据）
+style_profile.json
+translate_history.json
+messages.json
+
+# 项目规划文档（包含私人内容）
+桌宠项目开发计划.md

@@ -1,0 +1,12 @@
+{
+  "api_key": "你的DeepSeek API Key",
+  "model_name": "deepseek-v4-flash",
+  "always_on_top": true,
+  "auto_start": false,
+  "pet_size": 300,
+  "user_avatar_path": "",
+  "pet_avatar_path": "",
+  "mimic_mode": false,
+  "supabase_url": "你的Supabase项目URL（可选，用于云端消息同步）",
+  "supabase_anon_key": "你的Supabase Anon Key（可选）"
+}

@@ -1,0 +1,10 @@
+{
+  "api_key": "",
+  "model_name": "deepseek-v4-flash",
+  "always_on_top": true,
+  "auto_start": true,
+  "pet_size": 150,
+  "user_avatar_path": "",
+  "pet_avatar_path": "",
+  "mimic_mode": true
+}
